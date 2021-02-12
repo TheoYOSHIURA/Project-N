@@ -2,8 +2,8 @@
 
 ## List of Characters
 
-1. [Chiara](characters/chiara.md)
-2. [Hari](characters/hari.md)
+1. [Luna](characters/chiara.md)
+2. [Zart](characters/zart.md)
 3. []() //Un personnage dans un mecha. Quand il prend trop de dégâts, il sort du mecha. Très fragile hors du mecha mais il peut charger une barre pour le rappeler en frappant l'adversaire. VOIR KLED D.VA
 4. []() //Un personnage qui peut créer des cubes d'eau flottants. Les cubes d'eau ralentissent l'adversaire. Le personnage peut bouger librement et même flotter dans les cubes d'eau.
 5. []() //Un personnage qui se bat avec un ou plusieurs instruments de musiques (ex tuba ou petit orchestre) Chaque attaque joue une note (ou un type de note). Selon les combinaisons, il gagne un buff.

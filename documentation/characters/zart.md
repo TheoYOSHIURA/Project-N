@@ -1,8 +1,8 @@
 # Hari Character Page
-Name: Hari
+Name: Zart
 
 ## Description
-Hari is a girl made of glass.
+Zart is a girl made of glass.
 
 ___
 ## Story
