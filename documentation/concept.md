@@ -1,5 +1,5 @@
 # Concept
-![a](..\images\xbox_controller.png)
+![xbox_controller.png](https://github.com/TheoYOSHIURA/Project-N/blob/master/images/xbox_controller.png)
 
 I want to optmize the use of controllers while still have decent keyboard controls. input execution has to be easy. I want a very fluid and intuitive gameplay.
 ___
