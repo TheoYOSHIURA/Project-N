@@ -8,7 +8,7 @@ jobs:
   deploy:
     defaults:
       run:
-        working-directory: Documentation
+        working-directory: site
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
