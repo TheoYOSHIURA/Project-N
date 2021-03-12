@@ -2,7 +2,7 @@
 Name:
 
 ## Description
-
+Un personnage dans un mecha. Quand il prend trop de dégâts, il sort du mecha. Très fragile hors du mecha mais il peut charger une barre pour le rappeler en frappant l'adversaire. Peut-être une exosuit dans un style evangelion.
 ___
 ## Story
 
